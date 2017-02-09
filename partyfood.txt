@@ -6,3 +6,4 @@ bread
 grapes
 biscuits
 cups
+chocolate
